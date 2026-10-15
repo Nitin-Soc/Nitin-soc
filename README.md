@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Nitin-Soc/Nitin-soc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+🎓 BCA Student | Aspiring SOC Analyst
 
-Here are some ideas to get you started:
+I'm a cybersecurity learner interested in security
+operations, Linux administration, and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Currently Learning
+- Cybersecurity & SOC Fundamentals
+- Linux Administration (RHEL & Kali)
+- Computer Networking & CCNA
+- Wireshark & Network Traffic Analysis
+- SSH Security & System Hardening
+
+## 🛠️ Tools & Technologies
+- Operating Systems: Kali Linux, RHEL, Windows
+- Networking: Cisco Packet Tracer, TCP/IP
+- Security: Wireshark, Linux Logs
+- Other: Bash, Git, VirtualBox
+
+## 🎯 Current Goals
+- Build hands-on cybersecurity labs
+- Improve log analysis and incident detection
+- Document practical projects on GitHub
+- Prepare for entry-level SOC Analyst roles
